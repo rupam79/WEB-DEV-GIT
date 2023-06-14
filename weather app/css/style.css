@@ -23,6 +23,9 @@ body{
     align-items: center;
     justify-content: space-between;
 }
+.weather{
+    display: none;
+}
 .search input{
     border:0px;
     outline: 0px;
