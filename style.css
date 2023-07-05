@@ -1,0 +1,16 @@
+.left img{
+    width:103px;
+    height: 73px;
+}
+/* nav{
+    padding: 0 120px;
+} */
+.container{
+    max-width: 80vw;
+    /* background: yellow; */
+    margin: auto;
+}
+nav ul li{
+    list-style: none;
+    padding: 12px 12px;
+}
